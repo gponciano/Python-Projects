@@ -5,6 +5,7 @@
 - SQL Alchemy
 - MySQL
 - Docker
+- Werkzeug
 
 🚀 Features
 
