@@ -52,7 +52,7 @@ while True:
     print("5. Delete completed task(s)")
     print("6. Exit")
 
-    user_input = input("Please choose an item: ")
+    user_input = input("Please choose an option: ")
 
     if user_input == "1":
         task_name = input("Please add your task: ")
